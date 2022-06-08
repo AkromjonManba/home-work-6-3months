@@ -1,4 +1,4 @@
-var num = prompt("Summani kiriting")
+var num = +prompt("Sayohatka kerak boladigan Summani kiriting")
 var userNum = document.querySelector(".num")
 
 if (num >= 9666000 ){
